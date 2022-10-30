@@ -1,0 +1,8 @@
+# Model Checkpoints
+lightning_logs
+
+# Datasets
+catboost_cached_datasets
+
+# Misc
+*.swp
